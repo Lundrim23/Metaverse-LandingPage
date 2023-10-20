@@ -7,7 +7,6 @@ import { TypingText, ExploreCard, TitleText } from "../components";
 import styles from "../styles";
 import { staggerContainer } from "../utils/motion";
 import { exploreWorlds } from "../constants";
-import { Stage } from "@react-three/drei";
 
 const Explore = () => {
   const [active, setActive] = useState("world-2");
