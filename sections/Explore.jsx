@@ -26,7 +26,7 @@ const Explore = () => {
               Choose the world you want <br className="md:block hidden" /> to
               explore
             </>
-          )}
+  )}
           textStyles="text-center"
         />
 
